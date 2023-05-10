@@ -1,0 +1,6 @@
+Student attendance report of BECS 12243
+
+Time		Student ID		Student Name
+
+
+Total Attendance Count: 0

@@ -1,0 +1,7 @@
+Student attendance report of BECS 12243
+
+Time		Student ID		Student Name
+
+12:43:24	EC/2020/066		U.M.T Yashodha
+
+Total Attendance Count: 1
